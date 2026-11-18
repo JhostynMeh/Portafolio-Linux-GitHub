@@ -1,0 +1,10 @@
+1. pwd - Muestra la ruta del directorio actual.
+2. ls - Lista los archivos y directorios.
+3. ls -la - Lista todos los archivos con permisos y archivos ocultos.
+4. mkdir - Crea nuevos directorios.
+5. cd - Cambia de directorio de trabajo.
+6. touch - Crea archivos vacios.
+7. nano - Editor de texto en terminal.
+8. git init - Inicializa un repositorio Git local.
+9. git status - Muestra el estado de los archivos en el repositorio.
+10. git log - Muestra el historial de commits.
